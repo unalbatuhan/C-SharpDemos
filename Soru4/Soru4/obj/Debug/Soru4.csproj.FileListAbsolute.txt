@@ -1,0 +1,6 @@
+c:\users\batuhan\documents\visual studio 2015\Projects\Soru4\Soru4\bin\Debug\Soru4.exe.config
+c:\users\batuhan\documents\visual studio 2015\Projects\Soru4\Soru4\bin\Debug\Soru4.exe
+c:\users\batuhan\documents\visual studio 2015\Projects\Soru4\Soru4\bin\Debug\Soru4.pdb
+c:\users\batuhan\documents\visual studio 2015\Projects\Soru4\Soru4\obj\Debug\Soru4.csprojResolveAssemblyReference.cache
+c:\users\batuhan\documents\visual studio 2015\Projects\Soru4\Soru4\obj\Debug\Soru4.exe
+c:\users\batuhan\documents\visual studio 2015\Projects\Soru4\Soru4\obj\Debug\Soru4.pdb
