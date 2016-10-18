@@ -1,0 +1,9 @@
+c:\users\batuhan\documents\visual studio 2015\Projects\Soru5\Soru5\bin\Debug\Soru5.exe.config
+c:\users\batuhan\documents\visual studio 2015\Projects\Soru5\Soru5\obj\Debug\Soru5.csprojResolveAssemblyReference.cache
+c:\users\batuhan\documents\visual studio 2015\Projects\Soru5\Soru5\obj\Debug\Soru5.Form1.resources
+c:\users\batuhan\documents\visual studio 2015\Projects\Soru5\Soru5\obj\Debug\Soru5.Properties.Resources.resources
+c:\users\batuhan\documents\visual studio 2015\Projects\Soru5\Soru5\obj\Debug\Soru5.csproj.GenerateResource.Cache
+c:\users\batuhan\documents\visual studio 2015\Projects\Soru5\Soru5\bin\Debug\Soru5.exe
+c:\users\batuhan\documents\visual studio 2015\Projects\Soru5\Soru5\bin\Debug\Soru5.pdb
+c:\users\batuhan\documents\visual studio 2015\Projects\Soru5\Soru5\obj\Debug\Soru5.exe
+c:\users\batuhan\documents\visual studio 2015\Projects\Soru5\Soru5\obj\Debug\Soru5.pdb
