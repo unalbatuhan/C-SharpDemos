@@ -1,0 +1,9 @@
+c:\users\batuhan\documents\visual studio 2015\Projects\Greengrocer\Greengrocer\bin\Debug\Greengrocer.exe.config
+c:\users\batuhan\documents\visual studio 2015\Projects\Greengrocer\Greengrocer\bin\Debug\Greengrocer.exe
+c:\users\batuhan\documents\visual studio 2015\Projects\Greengrocer\Greengrocer\bin\Debug\Greengrocer.pdb
+c:\users\batuhan\documents\visual studio 2015\Projects\Greengrocer\Greengrocer\obj\Debug\Greengrocer.csprojResolveAssemblyReference.cache
+c:\users\batuhan\documents\visual studio 2015\Projects\Greengrocer\Greengrocer\obj\Debug\Greengrocer.Form1.resources
+c:\users\batuhan\documents\visual studio 2015\Projects\Greengrocer\Greengrocer\obj\Debug\Greengrocer.Properties.Resources.resources
+c:\users\batuhan\documents\visual studio 2015\Projects\Greengrocer\Greengrocer\obj\Debug\Greengrocer.csproj.GenerateResource.Cache
+c:\users\batuhan\documents\visual studio 2015\Projects\Greengrocer\Greengrocer\obj\Debug\Greengrocer.exe
+c:\users\batuhan\documents\visual studio 2015\Projects\Greengrocer\Greengrocer\obj\Debug\Greengrocer.pdb
