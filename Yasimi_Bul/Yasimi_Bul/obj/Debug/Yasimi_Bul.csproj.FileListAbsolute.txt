@@ -1,0 +1,9 @@
+c:\users\batuhan\documents\visual studio 2015\Projects\Yasimi_Bul\Yasimi_Bul\bin\Debug\Yasimi_Bul.exe.config
+c:\users\batuhan\documents\visual studio 2015\Projects\Yasimi_Bul\Yasimi_Bul\bin\Debug\Yasimi_Bul.exe
+c:\users\batuhan\documents\visual studio 2015\Projects\Yasimi_Bul\Yasimi_Bul\bin\Debug\Yasimi_Bul.pdb
+c:\users\batuhan\documents\visual studio 2015\Projects\Yasimi_Bul\Yasimi_Bul\obj\Debug\Yasimi_Bul.csprojResolveAssemblyReference.cache
+c:\users\batuhan\documents\visual studio 2015\Projects\Yasimi_Bul\Yasimi_Bul\obj\Debug\Yasimi_Bul.Form1.resources
+c:\users\batuhan\documents\visual studio 2015\Projects\Yasimi_Bul\Yasimi_Bul\obj\Debug\Yasimi_Bul.Properties.Resources.resources
+c:\users\batuhan\documents\visual studio 2015\Projects\Yasimi_Bul\Yasimi_Bul\obj\Debug\Yasimi_Bul.csproj.GenerateResource.Cache
+c:\users\batuhan\documents\visual studio 2015\Projects\Yasimi_Bul\Yasimi_Bul\obj\Debug\Yasimi_Bul.exe
+c:\users\batuhan\documents\visual studio 2015\Projects\Yasimi_Bul\Yasimi_Bul\obj\Debug\Yasimi_Bul.pdb
